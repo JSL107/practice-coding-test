@@ -1,7 +1,9 @@
+package com.practice.codingtest.BOJ.dp;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
-class Main {
+class BOJ12865 {
 /*
 @Parameter
     1. int n : 총 물건의 개수
