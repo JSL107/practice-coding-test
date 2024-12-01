@@ -6,9 +6,16 @@
 
 ---
 
+## 🚀 **진행 목표**
+
+1. 일주일 최소 3문제 풀기  
+2. 다양한 알고리즘 문제 유형 익히기  
+
+---
+
 ## 🕒 **최근 활동**
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ddww66&theme=warm)
-
+<br>
 - **2024-12-01**: 백준 첫번째 문제 풀이 완료!  
 ---
 
@@ -22,13 +29,6 @@
 ## 🛠️ **풀이 언어**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-
----
-
-## 🚀 **진행 목표**
-
-1. 일주일 최소 3문제 풀기  
-2. 다양한 알고리즘 문제 유형 익히기  
 
 ---
 
