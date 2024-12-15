@@ -22,7 +22,7 @@ public class BOJ2309 {
                     for (int k = 2; k < 9; k++) {
                         System.out.println(small[k]);
                     }
-//                    return;
+                    return;
                 }
             }
         }
