@@ -1,4 +1,4 @@
-package com.practice.codingtest.소수찾기;
+package com.practice.codingtest.BOJ.소수찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

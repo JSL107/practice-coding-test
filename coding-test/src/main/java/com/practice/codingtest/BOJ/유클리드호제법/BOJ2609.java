@@ -1,4 +1,4 @@
-package com.practice.codingtest.유클리드호제법;
+package com.practice.codingtest.BOJ.유클리드호제법;
 
 import java.io.BufferedReader;
 import java.io.IOException;
