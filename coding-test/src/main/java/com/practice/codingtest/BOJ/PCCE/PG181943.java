@@ -15,7 +15,6 @@ public class PG181943 {
         }
         sb.append(overwrite_string);
 
-        System.out.println(sb.toString().length());
         for(int i = sb.toString().length(); i < my_string.length(); i++) {
             sb.append(my_string.charAt(i));
         }
