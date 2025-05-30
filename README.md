@@ -17,7 +17,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ddww66&theme=warm)
 <br>
 - **2024-12-01**: 백준 첫번째 문제 풀이 완료!  
----
+- **2025-05-20**: 이분 탐색 알고리즘 공부 시작!
 
 ## 🏆 **코딩 테스트 플랫폼 티어**
 
